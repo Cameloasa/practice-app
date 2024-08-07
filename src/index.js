@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom/client";
-import App from "./App";
+import Skill from "./Skill";
 import "bootstrap/dist/css/bootstrap.css";
 
 
@@ -7,5 +7,5 @@ import "bootstrap/dist/css/bootstrap.css";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-    <App/>
+    <Skill/>
 );
